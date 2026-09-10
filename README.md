@@ -14,7 +14,6 @@ I'm a computational biology nerd who likes asking cells weird questions.
 ### Things I nerd out about
 - **Graphs everywhere** - GNNs, graph theory, graph algorithms. If it can be drawn as nodes and edges, I probably want to talk about it.
 - Making little **Arduino projects** that try to embody bioinformatics models in hardware (turns out cells are easier to simulate when you can poke them with a wire)
-- Teaching a musculoskeletal model to move in MuJoCo
 - Generally: anything where biology gets to wear a math hat 
 
 
