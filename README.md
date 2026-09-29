@@ -1,9 +1,7 @@
 # Hi, I'm Mrun 👩‍💻 :)
 
-I'm a computational biology nerd who likes asking cells weird questions.
-
 ### Currently
-- Computational biology intern @ **OPTIn** (Organ Pathobiology and Therapeutics Institute, University of Pittsburgh) 
+- Graduate Student Researcher @ **OPTIn** (Organ Pathobiology and Therapeutics Institute, University of Pittsburgh) 
 - Master's student in **Quantitative Biology & Bioinformatics (MSQBB)** @ Carnegie Mellon
 
 ### Tools
